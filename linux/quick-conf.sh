@@ -10,6 +10,7 @@ apt-get install docker.io -y
 sudo apt-get install apache2 -y
 apt-get install mysql-server -y
 apt-get install npm -y
+apt-get install vlc -y
 apt-get install ffmpeg -y
 
 #Add repo php7
