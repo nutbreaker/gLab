@@ -30,3 +30,8 @@ wget -P $HOME/atom/ https://atom.io/download/deb && dpkg --install $HOME/atom/de
 add-apt-repository ppa:tualatrix/next -y
 apt-get update
 apt-get install ubuntu-tweak
+
+#Indicator SysMonitor 
+add-apt-repository ppa:fossfreedom/indicator-sysmonitor
+apt-get update
+apt-get install indicator-sysmonitor
